@@ -1,0 +1,1447 @@
+2024-12-11 23:48:54,575 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-11 23:48:54,578 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-11 23:48:57,334 - ControllerInput - INFO - Motion paused: True
+2024-12-11 23:48:57,339 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-11 23:49:08,666 - ControllerInput - INFO - Motion paused: True
+2024-12-11 23:49:12,894 - ControllerInput - INFO - Motion paused: False
+2024-12-11 23:49:38,839 - ControllerInput - INFO - Motion paused: True
+2024-12-11 23:49:52,659 - ControllerInput - INFO - Motion paused: False
+2024-12-11 23:50:00,867 - ControllerInput - INFO - Motion paused: True
+2024-12-11 23:50:04,303 - ControllerInput - INFO - Motion paused: False
+2024-12-11 23:50:06,119 - ControllerInput - INFO - Motion paused: True
+2024-12-11 23:50:40,587 - ControllerInput - INFO - Motion paused: False
+2024-12-11 23:51:06,779 - ControllerInput - INFO - Motion paused: True
+2024-12-11 23:51:26,977 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 00:03:30,688 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 00:03:31,398 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 00:03:32,643 - ControllerInput - INFO - Motion paused.
+2024-12-12 00:03:32,649 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 00:03:37,967 - ControllerInput - INFO - Motion paused.
+2024-12-12 00:03:41,503 - ControllerInput - INFO - Motion resumed.
+2024-12-12 00:03:44,131 - ControllerInput - INFO - Motion paused.
+2024-12-12 00:03:52,963 - ControllerInput - INFO - Motion resumed.
+2024-12-12 00:03:58,977 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 00:10:40,516 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 00:10:41,219 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 00:10:43,759 - ControllerInput - INFO - Motion paused.
+2024-12-12 00:10:43,769 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 00:10:51,659 - ControllerInput - INFO - Motion paused.
+2024-12-12 00:10:56,907 - ControllerInput - INFO - Motion resumed.
+2024-12-12 00:10:59,587 - ControllerInput - INFO - Motion paused.
+2024-12-12 00:11:04,188 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 00:11:05,703 - ControllerInput - INFO - KeyboardInterrupt during controller stop.
+2024-12-12 00:20:04,457 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 00:20:05,161 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 00:20:07,401 - ControllerInput - INFO - Motion paused.
+2024-12-12 00:20:07,409 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 00:20:51,493 - ControllerInput - INFO - Motion paused.
+2024-12-12 00:20:55,265 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 00:20:58,893 - ControllerInput - INFO - KeyboardInterrupt during controller stop.
+2024-12-12 00:27:11,495 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 00:27:12,198 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 00:27:14,150 - ControllerInput - INFO - Motion paused.
+2024-12-12 00:27:14,154 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 00:27:21,378 - ControllerInput - INFO - Motion paused.
+2024-12-12 00:27:25,142 - ControllerInput - INFO - Motion resumed.
+2024-12-12 00:27:27,042 - ControllerInput - INFO - Motion paused.
+2024-12-12 00:27:29,558 - ControllerInput - INFO - Motion resumed.
+2024-12-12 00:28:04,793 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 00:29:35,863 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 00:29:36,572 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 00:29:38,131 - ControllerInput - INFO - Motion paused.
+2024-12-12 00:29:38,135 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 00:29:43,351 - ControllerInput - INFO - Motion paused.
+2024-12-12 00:29:50,063 - ControllerInput - INFO - Motion resumed.
+2024-12-12 00:29:52,163 - ControllerInput - INFO - Motion paused.
+2024-12-12 00:30:10,557 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 01:03:49,742 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 01:03:50,450 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 01:03:51,723 - ControllerInput - INFO - Motion paused.
+2024-12-12 01:03:51,732 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 01:04:01,767 - ControllerInput - INFO - Motion paused.
+2024-12-12 01:04:28,069 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 01:04:28,159 - ControllerInput - INFO - Motion resumed.
+2024-12-12 01:04:28,160 - ControllerInput - INFO - Controller polling thread stopped.
+2024-12-12 01:04:57,857 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 01:04:58,570 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 01:04:59,644 - ControllerInput - INFO - Motion paused.
+2024-12-12 01:04:59,649 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 01:05:46,313 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 01:05:47,986 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 01:05:51,937 - ControllerInput - INFO - Motion paused.
+2024-12-12 01:05:51,937 - ControllerInput - INFO - Controller polling thread stopped.
+2024-12-12 01:18:48,506 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 01:18:49,210 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 01:18:53,105 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 01:19:04,040 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 01:20:10,148 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 01:20:10,849 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 01:20:12,486 - ControllerInput - INFO - Motion paused.
+2024-12-12 01:20:12,493 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 01:20:46,810 - ControllerInput - INFO - Motion paused.
+2024-12-12 01:20:48,282 - ControllerInput - INFO - Motion resumed.
+2024-12-12 01:20:51,410 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 01:20:52,332 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 01:20:57,238 - ControllerInput - INFO - Motion paused.
+2024-12-12 01:20:57,238 - ControllerInput - INFO - Controller polling thread stopped.
+2024-12-12 01:31:10,696 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 01:31:11,407 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 01:31:16,998 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 01:31:22,570 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 01:31:54,140 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 01:31:54,836 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 01:31:56,082 - ControllerInput - INFO - Motion paused.
+2024-12-12 01:31:56,088 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 01:32:34,347 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 01:32:35,758 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 01:34:09,414 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 01:34:10,120 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 01:34:11,096 - ControllerInput - INFO - Motion paused.
+2024-12-12 01:34:11,099 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 01:34:18,720 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 01:34:20,068 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 01:45:35,808 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 01:45:36,513 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 01:45:38,908 - ControllerInput - INFO - Motion paused.
+2024-12-12 01:45:38,912 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 01:45:45,108 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 01:46:41,008 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 01:46:45,560 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 01:46:51,769 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 01:47:22,272 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 02:09:00,783 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 02:09:01,489 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 02:09:03,283 - ControllerInput - INFO - Motion paused.
+2024-12-12 02:09:03,284 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 02:09:07,715 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 02:09:12,375 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 02:09:14,519 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 02:09:15,827 - ControllerInput - INFO - Motion paused.
+2024-12-12 02:09:23,704 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 02:16:08,468 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 02:16:09,173 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 02:16:10,362 - ControllerInput - INFO - Motion paused.
+2024-12-12 02:16:10,364 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 02:16:16,462 - ControllerInput - INFO - Motion paused.
+2024-12-12 02:16:17,778 - ControllerInput - INFO - Motion resumed.
+2024-12-12 02:16:19,350 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 02:16:24,149 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 02:16:27,222 - ControllerInput - INFO - Motion resumed.
+2024-12-12 02:16:53,122 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 02:16:53,864 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 02:17:10,414 - ControllerInput - INFO - Motion resumed.
+2024-12-12 02:17:13,486 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 02:17:15,174 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 02:17:40,059 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 02:17:41,524 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 02:17:43,035 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 02:17:43,967 - ControllerInput - INFO - Motion resumed.
+2024-12-12 02:17:44,471 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 02:17:45,280 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 02:17:46,403 - ControllerInput - INFO - Motion resumed.
+2024-12-12 02:17:47,187 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 02:17:47,951 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 02:17:48,795 - ControllerInput - INFO - Motion resumed.
+2024-12-12 02:17:49,979 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 02:17:51,623 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 02:17:52,555 - ControllerInput - INFO - Motion resumed.
+2024-12-12 02:17:53,551 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 02:17:56,747 - ControllerInput - INFO - Motion paused.
+2024-12-12 02:17:59,231 - ControllerInput - INFO - Motion resumed.
+2024-12-12 02:18:20,252 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 02:18:31,026 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 02:27:16,919 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 02:27:17,624 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 02:27:24,185 - ControllerInput - INFO - Motion paused.
+2024-12-12 02:27:24,192 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 02:27:31,965 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 02:27:35,058 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 02:27:37,281 - ControllerInput - INFO - Motion resumed.
+2024-12-12 02:27:38,201 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 02:27:40,150 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 02:27:43,953 - ControllerInput - INFO - Motion resumed.
+2024-12-12 02:27:44,657 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 02:28:07,528 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 02:28:11,017 - ControllerInput - INFO - Motion resumed.
+2024-12-12 02:28:16,790 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 02:28:18,211 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 02:28:26,694 - ControllerInput - INFO - Motion resumed.
+2024-12-12 02:28:27,610 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 02:28:53,935 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 02:28:57,394 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 02:28:58,578 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 02:28:58,946 - ControllerInput - INFO - Motion resumed.
+2024-12-12 02:28:59,674 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 02:29:03,450 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 02:29:30,496 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 02:35:47,974 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 02:35:48,692 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 02:35:50,809 - ControllerInput - INFO - Motion paused.
+2024-12-12 02:35:50,809 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 02:35:55,281 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 02:35:57,462 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 02:36:01,825 - ControllerInput - INFO - Controller polling thread stopped.
+2024-12-12 02:37:22,963 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 02:37:23,673 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 02:37:25,010 - ControllerInput - INFO - Motion paused.
+2024-12-12 02:37:25,014 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 02:37:32,651 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 02:37:34,673 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 02:37:35,043 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 02:37:35,043 - ControllerInput - INFO - Controller polling thread stopped.
+2024-12-12 02:38:06,697 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 02:38:07,406 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 02:38:08,355 - ControllerInput - INFO - Motion paused.
+2024-12-12 02:38:08,365 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 02:38:10,283 - ControllerInput - INFO - Motion paused.
+2024-12-12 02:38:11,783 - ControllerInput - INFO - Motion resumed.
+2024-12-12 02:38:15,511 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 02:38:15,551 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 02:38:16,600 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 02:47:02,932 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 02:47:03,644 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 02:47:04,900 - ControllerInput - INFO - Motion paused.
+2024-12-12 02:47:04,905 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 02:47:12,092 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 02:47:13,557 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 02:48:39,340 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 02:48:40,058 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 02:48:41,829 - ControllerInput - INFO - Motion paused.
+2024-12-12 02:48:41,833 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 02:48:47,521 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 02:48:48,864 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 02:49:41,547 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 02:49:42,252 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 02:49:44,194 - ControllerInput - INFO - Motion paused.
+2024-12-12 02:49:44,198 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 02:50:19,591 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 02:50:20,071 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 02:50:20,847 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 02:50:22,763 - ControllerInput - INFO - Motion paused.
+2024-12-12 02:50:22,763 - ControllerInput - INFO - Controller polling thread stopped.
+2024-12-12 02:55:48,620 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 02:55:49,339 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 02:55:50,656 - ControllerInput - INFO - Motion paused.
+2024-12-12 02:55:50,660 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 02:56:00,678 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 02:56:09,669 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 02:56:10,379 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 02:56:11,452 - ControllerInput - INFO - Motion paused.
+2024-12-12 02:56:11,459 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 02:56:16,128 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 02:56:54,937 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 02:56:59,481 - ControllerInput - INFO - Motion paused.
+2024-12-12 02:57:13,612 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 03:06:12,750 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 03:06:13,465 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 03:06:14,760 - ControllerInput - INFO - Motion paused.
+2024-12-12 03:06:14,767 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 03:06:20,912 - ControllerInput - INFO - Motion paused.
+2024-12-12 03:06:22,324 - ControllerInput - INFO - Motion resumed.
+2024-12-12 03:06:23,588 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 03:06:50,948 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 03:06:57,312 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 03:07:00,664 - ControllerInput - INFO - Motion paused.
+2024-12-12 03:07:30,932 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 03:18:17,372 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 03:18:18,090 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 03:18:19,762 - ControllerInput - INFO - Motion paused.
+2024-12-12 03:18:19,764 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 03:18:30,970 - ControllerInput - INFO - Motion paused.
+2024-12-12 03:18:32,238 - ControllerInput - INFO - Motion resumed.
+2024-12-12 03:18:33,326 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 03:18:37,895 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 03:18:42,542 - ControllerInput - INFO - Motion resumed.
+2024-12-12 03:19:06,243 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 03:19:11,949 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 03:19:14,015 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 03:19:14,859 - ControllerInput - INFO - Motion resumed.
+2024-12-12 03:19:15,471 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 03:19:19,378 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 03:19:22,215 - ControllerInput - INFO - Motion resumed.
+2024-12-12 03:19:43,355 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 03:19:47,423 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 03:19:48,975 - ControllerInput - INFO - Motion resumed.
+2024-12-12 03:19:52,239 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 03:19:56,270 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 03:19:58,727 - ControllerInput - INFO - Motion resumed.
+2024-12-12 03:20:20,228 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 03:20:24,733 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 03:20:26,156 - ControllerInput - INFO - Motion resumed.
+2024-12-12 03:20:26,984 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 03:20:30,659 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 03:20:33,676 - ControllerInput - INFO - Motion resumed.
+2024-12-12 03:20:54,208 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 03:20:58,704 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 03:20:59,408 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 03:21:00,000 - ControllerInput - INFO - Motion resumed.
+2024-12-12 03:21:00,640 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 03:21:04,630 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 03:21:05,496 - ControllerInput - INFO - Motion resumed.
+2024-12-12 03:21:05,980 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 03:21:08,720 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 03:21:22,052 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 03:27:21,201 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 03:27:21,929 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 03:27:24,634 - ControllerInput - INFO - Motion paused.
+2024-12-12 03:27:24,641 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 03:27:48,294 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 03:27:53,458 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 03:27:55,078 - ControllerInput - INFO - Motion resumed.
+2024-12-12 03:27:55,882 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 03:27:59,551 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 03:28:06,388 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 05:54:05,388 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 05:54:07,321 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 05:54:08,767 - ControllerInput - INFO - Motion paused.
+2024-12-12 05:54:08,774 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 05:54:18,793 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 05:54:24,826 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 05:54:25,535 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 05:54:26,488 - ControllerInput - INFO - Motion paused.
+2024-12-12 05:54:26,494 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 05:55:01,704 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 05:56:01,414 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 05:56:02,127 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 05:56:03,550 - ControllerInput - INFO - Motion paused.
+2024-12-12 05:56:03,559 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 05:57:22,227 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 05:58:36,154 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 05:58:36,867 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 05:58:39,089 - ControllerInput - INFO - Motion paused.
+2024-12-12 05:58:39,095 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 05:59:15,354 - ControllerInput - INFO - Motion paused.
+2024-12-12 05:59:18,114 - ControllerInput - INFO - Motion resumed.
+2024-12-12 05:59:47,130 - ControllerInput - INFO - Motion paused.
+2024-12-12 05:59:47,602 - ControllerInput - INFO - Motion resumed.
+2024-12-12 05:59:48,050 - ControllerInput - INFO - Motion paused.
+2024-12-12 05:59:48,410 - ControllerInput - INFO - Motion resumed.
+2024-12-12 05:59:48,754 - ControllerInput - INFO - Motion paused.
+2024-12-12 05:59:49,082 - ControllerInput - INFO - Motion resumed.
+2024-12-12 05:59:49,498 - ControllerInput - INFO - Motion paused.
+2024-12-12 05:59:52,392 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 06:02:04,054 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 06:02:04,762 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 06:02:05,789 - ControllerInput - INFO - Motion paused.
+2024-12-12 06:02:05,792 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 06:02:08,769 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 06:02:47,036 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 06:02:49,630 - ControllerInput - INFO - Motion resumed.
+2024-12-12 06:02:50,034 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 06:02:50,646 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 06:02:54,048 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 06:02:55,526 - ControllerInput - INFO - Motion resumed.
+2024-12-12 06:03:20,048 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 06:05:23,902 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 06:05:24,612 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 06:05:25,696 - ControllerInput - INFO - Motion paused.
+2024-12-12 06:05:25,702 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 06:06:05,856 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 06:06:09,541 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 06:06:10,976 - ControllerInput - INFO - Motion resumed.
+2024-12-12 06:06:46,732 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 06:06:48,028 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 06:06:50,773 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 06:06:52,504 - ControllerInput - INFO - Motion resumed.
+2024-12-12 06:07:26,791 - ControllerInput - INFO - Motion paused.
+2024-12-12 06:07:31,372 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 06:09:11,459 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 06:09:12,169 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 06:09:13,319 - ControllerInput - INFO - Motion paused.
+2024-12-12 06:09:13,320 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 06:10:26,512 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 06:12:41,755 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 06:12:42,464 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 06:12:43,523 - ControllerInput - INFO - Motion paused.
+2024-12-12 06:12:43,524 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 06:13:23,212 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 06:15:57,976 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 06:15:58,683 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 06:16:00,904 - ControllerInput - INFO - Motion paused.
+2024-12-12 06:16:00,911 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 06:16:43,069 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 06:17:39,129 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 06:17:39,844 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 06:17:45,961 - ControllerInput - INFO - Motion paused.
+2024-12-12 06:17:45,969 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 06:17:51,493 - ControllerInput - INFO - Motion paused.
+2024-12-12 06:18:02,635 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 06:18:07,722 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 06:18:08,442 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 06:18:09,874 - ControllerInput - INFO - Motion paused.
+2024-12-12 06:18:09,874 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 06:19:33,033 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 06:45:38,419 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 06:53:27,089 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 06:53:27,820 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 06:53:29,371 - ControllerInput - INFO - Motion paused.
+2024-12-12 06:53:29,373 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 06:53:46,588 - ControllerInput - INFO - Motion paused.
+2024-12-12 06:53:47,688 - ControllerInput - INFO - Motion resumed.
+2024-12-12 06:53:56,880 - ControllerInput - INFO - Motion paused.
+2024-12-12 06:54:06,549 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 06:54:32,284 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 06:54:32,997 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 06:54:34,088 - ControllerInput - INFO - Motion paused.
+2024-12-12 06:54:34,096 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 06:54:42,744 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 06:55:01,849 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 06:55:20,324 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 06:55:21,046 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 06:55:23,625 - ControllerInput - INFO - Motion paused.
+2024-12-12 06:55:23,627 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 06:55:32,161 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 06:56:26,010 - ControllerInput - INFO - Motion paused.
+2024-12-12 06:56:39,794 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 06:58:01,569 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 06:58:02,273 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 06:58:04,647 - ControllerInput - INFO - Motion paused.
+2024-12-12 06:58:04,652 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 06:58:13,911 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 06:58:49,164 - ControllerInput - INFO - Motion paused.
+2024-12-12 06:59:08,312 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 07:04:18,333 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 07:04:19,040 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 07:04:20,732 - ControllerInput - INFO - Motion paused.
+2024-12-12 07:04:20,734 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 07:04:26,836 - ControllerInput - INFO - Motion paused.
+2024-12-12 07:04:38,398 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 07:14:13,475 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 07:14:14,192 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 07:14:15,217 - ControllerInput - INFO - Motion paused.
+2024-12-12 07:14:15,221 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 07:14:20,892 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 07:16:31,690 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 07:16:32,404 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 07:16:34,470 - ControllerInput - INFO - User-initiated motion pause.
+2024-12-12 07:16:34,471 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 07:16:38,130 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 07:16:38,514 - ControllerInput - INFO - Controller polling thread stopped.
+2024-12-12 07:25:41,250 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 07:25:41,971 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 07:25:43,409 - ControllerInput - INFO - User-initiated motion pause.
+2024-12-12 07:25:43,414 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 07:25:50,925 - ControllerInput - INFO - User-initiated motion pause.
+2024-12-12 07:25:55,361 - ControllerInput - INFO - User-initiated motion resume.
+2024-12-12 07:25:55,467 - ControllerInput - INFO - Motion resumed due to state transition.
+2024-12-12 07:25:59,349 - ControllerInput - INFO - User-initiated motion pause.
+2024-12-12 07:26:01,169 - ControllerInput - INFO - User-initiated motion resume.
+2024-12-12 07:26:01,305 - ControllerInput - INFO - Motion resumed due to state transition.
+2024-12-12 07:26:37,594 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 07:26:52,534 - ControllerInput - INFO - Motion paused due to state transition.
+2024-12-12 07:26:59,142 - ControllerInput - INFO - User-initiated motion pause.
+2024-12-12 07:27:40,690 - ControllerInput - INFO - User-initiated motion resume.
+2024-12-12 07:27:40,694 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 07:27:40,695 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 07:27:40,982 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 07:27:42,535 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 07:27:42,859 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 07:27:43,170 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 07:27:43,687 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 07:27:43,722 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 07:27:44,275 - ControllerInput - INFO - User-initiated motion pause.
+2024-12-12 07:27:45,027 - ControllerInput - INFO - User-initiated motion resume.
+2024-12-12 07:27:45,611 - ControllerInput - INFO - User-initiated motion pause.
+2024-12-12 07:27:46,059 - ControllerInput - INFO - User-initiated motion resume.
+2024-12-12 07:28:04,192 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 07:33:54,641 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 07:33:55,353 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 07:33:57,728 - ControllerInput - INFO - User-initiated motion pause.
+2024-12-12 07:33:57,732 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 07:34:07,212 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 07:34:26,506 - ControllerInput - INFO - Motion paused due to state transition.
+2024-12-12 07:34:26,569 - ControllerInput - INFO - Waiting for 'Y' button press to execute exit maneuver...
+2024-12-12 07:34:26,570 - ControllerInput - INFO - Y button pressed for exit maneuver.
+2024-12-12 07:34:44,908 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 07:36:58,004 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 07:36:58,717 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 07:37:03,530 - ControllerInput - INFO - User-initiated motion pause.
+2024-12-12 07:37:03,533 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 07:37:08,886 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 07:37:26,536 - ControllerInput - INFO - Motion paused due to state transition.
+2024-12-12 07:37:26,599 - ControllerInput - INFO - Waiting for 'Y' button press to execute exit maneuver...
+2024-12-12 07:37:26,599 - ControllerInput - INFO - Y button pressed for exit maneuver.
+2024-12-12 07:37:34,193 - ControllerInput - INFO - Waiting for 'Y' button press to execute exit maneuver...
+2024-12-12 07:38:39,317 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 07:56:07,026 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 08:05:02,616 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 08:06:20,016 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 08:09:42,661 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 08:43:24,268 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 08:46:00,468 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 08:50:45,326 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 08:55:32,185 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 08:55:32,897 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 08:55:53,658 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 08:55:53,754 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 08:55:57,478 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 08:55:57,638 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 08:55:57,706 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 08:55:58,094 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 08:55:58,174 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 08:55:58,214 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 08:55:58,774 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 08:56:12,565 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 08:56:12,625 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 08:56:13,189 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 08:56:13,617 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 08:56:15,101 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 08:56:15,265 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 08:56:15,465 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 08:56:15,705 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 08:56:15,909 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 08:56:16,117 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 08:56:16,417 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 08:56:16,593 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 08:56:16,769 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 08:56:17,173 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 08:56:17,437 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 08:56:17,473 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 08:56:17,773 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 08:56:18,089 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 08:56:18,121 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 08:56:21,841 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 08:59:03,850 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 08:59:04,569 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 08:59:05,392 - ControllerInput - INFO - Motion paused.
+2024-12-12 08:59:05,396 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 08:59:07,404 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 09:02:28,239 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 09:02:28,952 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 09:02:31,221 - ControllerInput - INFO - Motion paused.
+2024-12-12 09:02:31,230 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 09:02:56,072 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 09:03:42,860 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 09:03:43,573 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 09:03:44,650 - ControllerInput - INFO - Motion paused.
+2024-12-12 09:03:44,653 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 09:03:55,790 - ControllerInput - INFO - Motion paused.
+2024-12-12 09:03:57,790 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:04:30,483 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 09:04:33,158 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:33,325 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:33,492 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:33,993 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:34,160 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:34,327 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:34,494 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:34,660 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:34,827 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:34,994 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:35,161 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:35,328 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:35,495 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:35,662 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:35,829 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:35,996 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:36,163 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:36,330 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:36,497 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:36,664 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:36,831 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:36,998 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:37,165 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:37,331 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:37,499 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:37,665 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:37,832 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:37,999 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:38,166 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:38,333 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:38,500 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:38,667 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:38,834 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:39,001 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:39,168 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:39,335 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:39,503 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:39,669 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:39,835 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:40,003 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:40,170 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:40,336 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:40,503 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:40,670 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:40,837 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:41,004 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:41,171 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:41,338 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:41,505 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:41,672 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:41,839 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:42,006 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:42,172 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:42,340 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:42,507 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:42,673 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:42,840 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:42,991 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:04:43,007 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:43,174 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:43,341 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:43,508 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:43,675 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:43,842 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:44,009 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:44,176 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:44,343 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:44,511 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:44,677 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:44,844 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:45,011 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:45,177 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:45,344 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:45,511 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:45,678 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:45,845 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:46,012 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:46,179 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:46,346 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:46,513 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:46,680 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:46,847 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:47,014 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:47,181 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:47,348 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:47,515 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:47,682 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:47,848 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:48,015 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:48,182 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:48,349 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:48,517 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:48,683 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:48,850 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:49,017 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:49,184 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:49,351 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:49,519 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:49,685 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:49,852 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:50,019 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:50,186 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:50,353 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:50,519 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:50,686 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:50,853 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:51,020 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:51,187 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:51,354 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:51,521 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:51,688 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:51,855 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:52,022 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:52,189 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:52,356 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:52,523 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:52,690 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:52,856 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:53,023 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:53,190 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:53,357 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:53,524 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:53,691 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:53,858 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:54,025 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:54,192 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:54,359 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:54,395 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:04:54,527 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:54,693 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:54,843 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:04:54,860 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:55,027 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:55,194 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:55,360 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:55,527 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:55,694 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:55,861 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:56,028 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:56,195 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:56,362 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:56,529 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:56,696 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:56,863 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:57,030 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:57,197 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:57,364 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:57,531 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:57,698 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:57,865 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:58,031 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:58,199 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:58,367 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:58,532 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:58,699 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:58,866 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:59,033 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:59,200 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:59,367 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:59,447 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:04:59,535 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:59,701 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:04:59,868 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:00,035 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:00,202 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:00,368 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:00,535 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:00,702 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:00,869 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:01,036 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:01,107 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:05:01,203 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:01,370 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:01,537 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:01,704 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:01,871 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:02,038 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:02,205 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:02,372 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:02,539 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:02,706 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:02,873 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:03,040 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:03,206 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:03,331 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:05:03,373 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:03,540 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:03,707 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:03,874 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:04,041 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:04,208 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:04,375 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:04,543 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:04,709 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:04,877 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:05,043 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:05,210 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:05,377 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:05,543 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:05,710 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:05,877 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:06,044 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:06,211 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:06,378 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:06,545 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:06,712 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:06,879 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:07,046 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:07,213 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:07,380 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:07,547 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:07,714 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:07,881 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:08,048 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:08,215 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:08,381 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:08,548 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:08,715 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:08,882 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:09,049 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:09,099 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:05:09,216 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:09,383 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:09,551 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:09,717 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:09,884 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:10,051 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:10,218 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:10,385 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:10,552 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:10,719 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:10,886 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:11,052 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:11,219 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:11,386 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:11,553 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:11,720 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:11,887 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:12,054 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:12,221 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:12,388 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:12,555 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:12,722 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:12,889 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:13,056 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:13,223 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:13,389 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:13,557 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:13,723 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:13,890 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:14,057 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:14,224 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:14,391 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:14,559 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:14,725 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:14,892 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:15,059 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:15,226 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:15,393 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:15,560 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:15,727 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:15,894 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:16,060 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:16,228 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:16,394 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:16,561 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:16,728 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:16,895 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:17,062 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:17,229 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:17,396 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:17,563 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:17,730 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:17,897 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:18,064 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:18,231 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:18,398 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:18,564 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:18,731 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:18,898 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:19,065 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:19,232 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:19,392 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:05:19,399 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:19,567 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:19,733 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:19,900 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:20,067 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:20,092 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:05:20,234 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:20,401 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:20,492 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:05:20,568 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:20,735 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:20,902 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:21,069 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:21,204 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:05:21,235 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:21,403 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:21,569 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:21,648 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:05:21,736 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:21,903 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:22,020 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:05:22,070 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:22,237 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:22,388 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:05:22,404 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:22,571 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:22,738 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:22,768 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:05:22,905 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:23,072 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:23,239 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:23,300 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:05:23,406 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:23,573 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:23,708 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:05:23,740 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:23,906 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:24,073 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:24,241 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:24,407 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:24,575 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:24,741 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:24,908 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:25,075 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:25,242 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:25,409 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:25,576 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:25,743 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:25,910 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:26,077 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:26,244 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:26,410 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:26,578 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:26,744 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:26,911 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:27,078 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:27,245 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:27,412 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:27,579 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:27,746 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:27,913 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:28,080 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:28,247 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:28,414 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:28,581 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:28,747 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:28,914 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:29,081 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:29,248 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:29,415 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:29,583 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:29,749 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:29,916 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:30,083 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:30,250 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:30,417 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:30,584 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:30,751 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:30,918 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:31,085 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:31,252 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:31,418 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:31,585 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:31,752 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:31,919 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:32,086 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:32,253 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:32,420 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:32,587 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:32,754 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:32,921 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:33,088 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:33,220 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:05:33,255 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:33,336 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 09:05:33,422 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:33,589 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:33,756 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:33,923 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:34,044 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:05:34,089 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:34,256 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:34,423 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:34,591 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:34,672 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:05:34,757 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:34,924 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:35,091 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:35,258 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:35,425 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:35,592 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:35,759 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:35,926 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:36,093 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:36,260 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:36,427 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:36,594 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:36,760 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:36,927 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:37,094 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:37,261 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:37,428 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:37,595 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:37,762 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:37,929 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:38,096 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:38,263 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:38,430 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:38,597 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:38,764 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:38,931 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:39,098 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:39,264 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:39,431 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:39,599 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:39,765 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:39,932 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:40,099 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:40,266 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:40,433 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:40,600 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:40,767 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:40,934 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:41,101 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:41,268 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:41,435 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:05:42,825 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 09:06:03,704 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 09:06:04,414 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 09:06:05,253 - ControllerInput - INFO - Motion paused.
+2024-12-12 09:06:05,262 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 09:06:10,417 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 09:06:18,707 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:18,874 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:19,041 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:19,208 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:19,375 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:19,543 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:19,710 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:19,877 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:20,043 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:20,211 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:20,377 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:20,543 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:20,710 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:20,877 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:21,044 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:21,211 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:21,345 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:06:21,378 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:21,545 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:21,712 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:21,879 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:22,046 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:22,213 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:22,380 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:22,546 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:22,713 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:22,880 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:23,047 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:23,215 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:23,381 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:23,549 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:23,715 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:23,882 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:24,049 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:24,216 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:24,383 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:24,550 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:24,717 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:24,884 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:06:26,417 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 09:37:21,049 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 09:37:21,764 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 09:37:23,655 - ControllerInput - INFO - Motion paused.
+2024-12-12 09:37:23,660 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 09:37:30,494 - ControllerInput - INFO - Motion paused.
+2024-12-12 09:37:35,442 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 09:37:55,807 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 09:48:12,252 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 09:48:12,967 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 09:48:16,610 - ControllerInput - INFO - Motion paused.
+2024-12-12 09:48:16,610 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 09:48:22,206 - ControllerInput - INFO - Motion paused.
+2024-12-12 09:48:26,770 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:48:27,894 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 09:48:33,658 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:48:39,842 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:48:52,120 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:48:54,642 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:49:02,110 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 09:49:38,303 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 09:49:46,607 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:49:53,567 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:50:04,615 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:50:06,235 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:50:12,543 - ControllerInput - INFO - Motion paused.
+2024-12-12 09:50:12,931 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 09:50:19,339 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 09:50:22,247 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:50:25,663 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:50:36,716 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:50:36,912 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:50:43,606 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 09:51:03,404 - ControllerInput - INFO - Motion paused.
+2024-12-12 09:51:13,392 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:51:17,781 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 09:51:49,020 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 09:51:49,729 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 09:51:51,948 - ControllerInput - INFO - Motion paused.
+2024-12-12 09:51:51,957 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 09:51:59,224 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 09:52:02,323 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:52:07,500 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:52:19,775 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:52:20,484 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:52:27,950 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 09:53:07,333 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 09:53:18,893 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 09:53:19,780 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:53:25,313 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:53:36,373 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 09:53:37,926 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:53:44,619 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 09:53:51,450 - ControllerInput - INFO - Motion paused.
+2024-12-12 09:53:53,066 - ControllerInput - INFO - Motion resumed.
+2024-12-12 09:54:01,318 - ControllerInput - INFO - Motion paused.
+2024-12-12 09:54:15,120 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 10:03:24,274 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 10:03:25,004 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 10:03:26,131 - ControllerInput - INFO - Motion paused.
+2024-12-12 10:03:26,134 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 10:03:35,763 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 10:03:41,417 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 10:03:52,656 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 10:04:48,266 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 10:04:48,987 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 10:04:50,480 - ControllerInput - INFO - Motion paused.
+2024-12-12 10:04:50,481 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 10:04:57,880 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 10:05:04,208 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 10:05:49,820 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 10:12:10,247 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 10:12:10,970 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 10:12:11,811 - ControllerInput - INFO - Motion paused.
+2024-12-12 10:12:11,817 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 10:12:20,935 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 10:12:25,857 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 10:12:44,027 - ControllerInput - INFO - Motion resumed.
+2024-12-12 10:12:56,295 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 10:13:07,111 - ControllerInput - INFO - Motion resumed.
+2024-12-12 10:13:14,572 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 10:13:25,500 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 10:30:44,826 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 10:30:45,535 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 10:30:46,747 - ControllerInput - INFO - Motion paused.
+2024-12-12 10:30:46,748 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 10:30:58,855 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 10:31:05,147 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 10:31:13,903 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 10:38:22,880 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 10:38:23,598 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 10:38:25,294 - ControllerInput - INFO - Motion paused.
+2024-12-12 10:38:25,303 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 10:38:40,972 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 10:38:51,793 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 10:38:52,503 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 10:38:57,559 - ControllerInput - INFO - Motion paused.
+2024-12-12 10:38:57,560 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 10:39:04,063 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 10:39:07,555 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 10:39:25,379 - ControllerInput - INFO - Motion paused.
+2024-12-12 10:39:25,951 - ControllerInput - INFO - Motion resumed.
+2024-12-12 10:39:31,211 - ControllerInput - INFO - Motion paused.
+2024-12-12 10:39:36,217 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 10:42:45,662 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 10:42:46,393 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 10:42:48,038 - ControllerInput - INFO - Motion paused.
+2024-12-12 10:42:48,047 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 10:43:01,612 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 10:43:45,990 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 10:43:46,702 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 10:43:48,107 - ControllerInput - INFO - Motion paused.
+2024-12-12 10:43:48,114 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 10:44:02,544 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 10:44:31,805 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 10:44:32,528 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 10:44:34,148 - ControllerInput - INFO - Motion paused.
+2024-12-12 10:44:34,152 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 10:44:42,307 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 10:49:08,513 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 10:49:09,218 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 10:49:10,468 - ControllerInput - INFO - Motion paused.
+2024-12-12 10:49:10,469 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 10:49:20,729 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 10:49:30,625 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 11:08:53,908 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 11:08:55,877 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 11:08:57,238 - ControllerInput - INFO - Motion paused.
+2024-12-12 11:08:57,239 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 11:09:10,254 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 11:09:36,552 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 11:09:37,269 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 11:09:41,622 - ControllerInput - INFO - Motion paused.
+2024-12-12 11:09:41,632 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 11:09:43,258 - ControllerInput - INFO - Motion paused.
+2024-12-12 11:09:47,143 - ControllerInput - INFO - Motion resumed.
+2024-12-12 11:10:00,290 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 11:10:59,112 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 11:10:59,823 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 11:11:01,845 - ControllerInput - INFO - Motion paused.
+2024-12-12 11:11:01,850 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 11:12:06,998 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 11:22:12,755 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 11:22:13,466 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 11:22:16,383 - ControllerInput - INFO - Motion paused.
+2024-12-12 11:22:16,389 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 11:22:23,519 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 11:23:05,651 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 11:23:16,295 - ControllerInput - INFO - Motion resumed.
+2024-12-12 11:23:28,562 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 11:23:37,839 - ControllerInput - INFO - Motion resumed.
+2024-12-12 11:23:45,305 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 11:23:48,527 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 11:23:49,807 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 11:23:56,315 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 11:24:01,003 - ControllerInput - INFO - Motion resumed.
+2024-12-12 11:24:13,280 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 11:24:15,427 - ControllerInput - INFO - Motion resumed.
+2024-12-12 11:24:22,896 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 11:24:55,612 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 11:25:02,755 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 11:25:10,462 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 11:26:40,018 - ControllerInput - INFO - Controller polling thread stopped.
+2024-12-12 11:31:19,001 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 11:31:19,708 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 11:31:29,197 - ControllerInput - INFO - Motion paused.
+2024-12-12 11:31:29,207 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 11:32:17,854 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 13:46:08,711 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 13:48:03,238 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 13:48:03,966 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 13:48:05,779 - ControllerInput - INFO - Motion paused.
+2024-12-12 13:48:05,781 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 13:48:13,163 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 13:48:28,340 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 13:49:24,440 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 13:49:25,153 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 13:49:27,797 - ControllerInput - INFO - Motion paused.
+2024-12-12 13:49:27,803 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 13:49:42,405 - ControllerInput - INFO - Motion paused.
+2024-12-12 13:49:43,945 - ControllerInput - INFO - Motion resumed.
+2024-12-12 13:50:12,693 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 13:50:16,641 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 13:50:26,155 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 13:50:31,010 - ControllerInput - INFO - Motion resumed.
+2024-12-12 13:50:42,061 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 13:50:45,166 - ControllerInput - INFO - Motion resumed.
+2024-12-12 13:50:51,854 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 13:50:52,090 - ControllerInput - INFO - Motion paused.
+2024-12-12 13:50:53,062 - ControllerInput - INFO - Motion resumed.
+2024-12-12 13:51:24,682 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 13:51:25,346 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 13:51:26,462 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 13:51:27,046 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 13:51:33,345 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 13:51:35,710 - ControllerInput - INFO - Motion resumed.
+2024-12-12 13:51:47,979 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 13:51:56,490 - ControllerInput - INFO - Motion resumed.
+2024-12-12 13:52:03,948 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 13:52:08,098 - ControllerInput - INFO - Motion paused.
+2024-12-12 13:52:10,460 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 13:56:10,655 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 13:56:11,370 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 13:56:13,155 - ControllerInput - INFO - Motion paused.
+2024-12-12 13:56:13,165 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 13:56:23,096 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 13:56:23,420 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 13:56:29,699 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 13:56:41,819 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 14:48:23,830 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 14:48:24,552 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 14:48:26,152 - ControllerInput - INFO - Motion paused.
+2024-12-12 14:48:26,156 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 14:48:29,916 - ControllerInput - INFO - Motion paused.
+2024-12-12 14:48:31,372 - ControllerInput - INFO - Motion resumed.
+2024-12-12 14:48:59,745 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 14:49:06,593 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 14:49:43,548 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 14:49:46,498 - ControllerInput - INFO - Motion resumed.
+2024-12-12 14:49:58,768 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 14:49:59,018 - ControllerInput - INFO - Motion resumed.
+2024-12-12 14:50:06,476 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 14:50:10,122 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 14:50:11,346 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 14:50:19,272 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 14:50:23,163 - ControllerInput - INFO - Motion resumed.
+2024-12-12 14:50:35,435 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 14:50:36,983 - ControllerInput - INFO - Motion resumed.
+2024-12-12 14:50:44,433 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 14:50:46,595 - ControllerInput - INFO - Motion paused.
+2024-12-12 14:53:18,152 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 14:57:48,821 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 14:58:43,557 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 14:58:44,278 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 14:58:46,004 - ControllerInput - INFO - Motion paused.
+2024-12-12 14:58:46,010 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 14:58:50,461 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 14:58:58,205 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 14:59:01,469 - ControllerInput - INFO - Motion resumed.
+2024-12-12 14:59:13,740 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 14:59:18,629 - ControllerInput - INFO - Motion resumed.
+2024-12-12 14:59:26,094 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 14:59:33,381 - ControllerInput - INFO - Motion paused.
+2024-12-12 14:59:33,475 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 14:59:33,601 - ControllerInput - INFO - Controller polling thread stopped.
+2024-12-12 15:03:01,015 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 15:03:01,725 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 15:03:02,896 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:03:02,906 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 15:04:32,054 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 15:05:42,930 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 15:05:43,644 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 15:05:44,774 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:05:44,775 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 15:05:54,793 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 15:06:00,486 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 15:06:01,199 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 15:06:02,554 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:06:02,561 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 15:07:10,399 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:07:12,284 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 15:07:53,882 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 15:07:54,593 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 15:07:55,543 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:07:55,551 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 15:09:02,880 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:09:05,210 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 15:10:20,505 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 15:10:21,215 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 15:10:22,373 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:10:22,374 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 15:10:23,957 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:10:30,273 - ControllerInput - INFO - Motion resumed.
+2024-12-12 15:11:09,033 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 15:11:39,597 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 15:11:44,186 - ControllerInput - INFO - Motion resumed.
+2024-12-12 15:11:56,455 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 15:11:56,742 - ControllerInput - INFO - Motion resumed.
+2024-12-12 15:11:56,842 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 15:12:04,208 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 15:12:12,538 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 15:12:12,646 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:12:12,646 - ControllerInput - INFO - Controller polling thread stopped.
+2024-12-12 15:13:19,967 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 15:13:20,689 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 15:13:33,339 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:13:33,340 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 15:13:41,275 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 15:13:47,211 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 15:13:55,999 - ControllerInput - INFO - Motion resumed.
+2024-12-12 15:14:06,867 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:14:07,049 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 15:14:13,683 - ControllerInput - INFO - Motion resumed.
+2024-12-12 15:14:20,382 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 15:14:24,715 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 15:14:32,771 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:14:34,547 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 15:14:36,683 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 15:14:37,863 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 15:14:38,871 - ControllerInput - INFO - Motion resumed.
+2024-12-12 15:15:31,744 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 15:15:42,452 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:15:57,584 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 15:21:54,039 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 15:21:54,741 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 15:21:55,911 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:21:55,921 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 15:22:00,295 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 15:22:10,271 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 15:22:11,180 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:22:11,180 - ControllerInput - INFO - Controller polling thread stopped.
+2024-12-12 15:23:31,686 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 15:23:32,397 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 15:23:33,587 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:23:33,595 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 15:23:45,699 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 15:24:20,755 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 15:24:29,012 - ControllerInput - INFO - Motion resumed.
+2024-12-12 15:24:40,064 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 15:24:50,273 - ControllerInput - INFO - Motion resumed.
+2024-12-12 15:24:56,969 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 15:25:33,247 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 15:27:20,831 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 15:27:21,533 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 15:27:31,013 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:27:31,022 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 15:27:37,789 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:27:41,040 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 15:27:43,413 - ControllerInput - INFO - Motion resumed.
+2024-12-12 15:27:43,415 - ControllerInput - INFO - Controller polling thread stopped.
+2024-12-12 15:27:55,640 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 15:27:56,351 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 15:28:02,502 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:28:02,506 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 15:28:18,151 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 15:28:24,169 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 15:28:24,880 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 15:28:41,587 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:28:41,595 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 15:28:49,483 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 15:29:02,483 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:29:03,539 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 15:29:23,664 - ControllerInput - INFO - Motion resumed.
+2024-12-12 15:29:29,876 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 15:29:33,015 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 15:29:38,956 - ControllerInput - INFO - Motion resumed.
+2024-12-12 15:29:44,708 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:29:45,420 - ControllerInput - INFO - Motion resumed.
+2024-12-12 15:29:46,076 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:29:46,624 - ControllerInput - INFO - Motion resumed.
+2024-12-12 15:29:51,229 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 15:29:54,620 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 15:40:07,383 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 15:40:08,094 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 15:40:09,815 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:40:09,819 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 15:40:19,139 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:40:19,973 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 15:53:11,639 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 15:53:12,349 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 15:53:14,398 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 15:53:14,398 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:53:14,406 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 15:53:25,560 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 15:56:31,288 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 15:56:31,995 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 15:56:34,050 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:56:34,052 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 15:56:41,942 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 15:56:49,011 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 15:56:59,762 - ControllerInput - INFO - Motion resumed.
+2024-12-12 15:57:12,034 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 15:58:01,539 - ControllerInput - INFO - Motion resumed.
+2024-12-12 15:58:09,011 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 15:58:37,600 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 15:58:47,033 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 15:59:03,645 - ControllerInput - INFO - Motion resumed.
+2024-12-12 15:59:14,697 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 15:59:25,733 - ControllerInput - INFO - Motion resumed.
+2024-12-12 15:59:32,419 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 15:59:51,565 - ControllerInput - INFO - Motion paused.
+2024-12-12 15:59:54,316 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 16:04:13,826 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 16:04:14,538 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 16:04:20,106 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 16:04:25,155 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 16:04:25,867 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 16:04:48,290 - ControllerInput - INFO - Motion paused.
+2024-12-12 16:04:48,296 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 16:04:56,655 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 16:04:58,163 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 16:05:14,445 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 16:23:09,109 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 16:23:09,810 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 16:23:13,323 - ControllerInput - INFO - Motion paused.
+2024-12-12 16:23:13,327 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 16:24:21,840 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 16:24:30,881 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 16:24:34,960 - ControllerInput - INFO - Motion resumed.
+2024-12-12 16:24:46,017 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 16:24:48,584 - ControllerInput - INFO - Motion resumed.
+2024-12-12 16:24:55,283 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 16:24:57,116 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 16:25:03,685 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 16:25:13,688 - ControllerInput - INFO - Motion resumed.
+2024-12-12 16:25:24,738 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 16:25:33,117 - ControllerInput - INFO - Motion resumed.
+2024-12-12 16:25:39,818 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 16:26:04,357 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 16:26:05,125 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 16:26:09,241 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 16:26:09,825 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 16:26:17,481 - ControllerInput - INFO - Motion paused.
+2024-12-12 16:26:22,985 - ControllerInput - INFO - Motion resumed.
+2024-12-12 16:26:45,347 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 16:26:47,634 - ControllerInput - INFO - Motion resumed.
+2024-12-12 16:26:59,907 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 16:27:03,880 - ControllerInput - INFO - Stopping controller polling thread...
+2024-12-12 16:29:14,665 - ControllerInput - INFO - Controller polling thread initialized.
+2024-12-12 16:29:15,376 - ControllerInput - INFO - Waiting for 'Y' button press to start...
+2024-12-12 16:30:20,987 - ControllerInput - INFO - Motion paused.
+2024-12-12 16:30:20,995 - ControllerInput - INFO - Y button pressed. Starting now...
+2024-12-12 16:30:28,959 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 16:30:29,647 - ControllerInput - INFO - Color search initiated for Red.
+2024-12-12 16:30:37,189 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 16:30:47,196 - ControllerInput - INFO - Motion resumed.
+2024-12-12 16:30:58,245 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 16:31:06,088 - ControllerInput - INFO - Motion resumed.
+2024-12-12 16:31:12,780 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 16:32:10,744 - ControllerInput - INFO - Motion paused.
+2024-12-12 16:32:17,928 - ControllerInput - INFO - Motion resumed.
+2024-12-12 16:32:21,668 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 16:32:29,619 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 16:32:40,212 - ControllerInput - INFO - Motion resumed.
+2024-12-12 16:32:51,270 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 16:32:53,620 - ControllerInput - INFO - Motion resumed.
+2024-12-12 16:33:00,323 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 16:33:54,505 - ControllerInput - INFO - Color search initiated for Blue.
+2024-12-12 16:33:59,930 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 16:34:20,453 - ControllerInput - INFO - Motion resumed.
+2024-12-12 16:34:31,503 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 16:34:55,993 - ControllerInput - INFO - Motion resumed.
+2024-12-12 16:35:02,690 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 16:36:06,970 - ControllerInput - INFO - Motion paused.
+2024-12-12 16:36:11,934 - ControllerInput - INFO - Motion resumed.
+2024-12-12 16:37:13,715 - ControllerInput - INFO - Color search initiated for Green.
+2024-12-12 16:37:24,257 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 16:37:29,795 - ControllerInput - INFO - Motion resumed.
+2024-12-12 16:37:40,848 - ControllerInput - INFO - Motion paused externally.
+2024-12-12 16:37:41,551 - ControllerInput - INFO - Motion resumed.
+2024-12-12 16:37:48,246 - ControllerInput - INFO - Motion resumed externally.
+2024-12-12 16:38:17,535 - ControllerInput - INFO - Motion paused.
+2024-12-12 16:38:19,836 - ControllerInput - INFO - Stopping controller polling thread...

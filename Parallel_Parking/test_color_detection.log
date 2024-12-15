@@ -1,0 +1,112 @@
+2024-12-12 01:53:48,864 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 01:53:51,709 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 01:54:15,903 - TestColorDetection - INFO - Controller: Color selection reset
+2024-12-12 01:54:20,515 - TestColorDetection - INFO - Controller: Selected Blue
+2024-12-12 01:54:24,443 - TestColorDetection - INFO - Controller: Selected Red
+2024-12-12 01:54:36,183 - TestColorDetection - INFO - Controller: Color selection reset
+2024-12-12 01:54:46,360 - TestColorDetection - INFO - Controller: Selected Red
+2024-12-12 01:55:07,844 - TestColorDetection - INFO - Controller: Selected Blue
+2024-12-12 01:55:18,984 - TestColorDetection - INFO - Controller: Selected Green
+2024-12-12 01:55:32,830 - TestColorDetection - INFO - User initiated exit via 'q' key.
+2024-12-12 01:55:34,160 - TestColorDetection - INFO - Stopping controller polling thread for test script...
+2024-12-12 01:56:48,982 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 01:56:51,834 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 01:57:35,537 - TestColorDetection - INFO - User initiated exit via 'q' key.
+2024-12-12 01:57:36,860 - TestColorDetection - INFO - Stopping controller polling thread for test script...
+2024-12-12 02:01:00,735 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 02:01:03,590 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 02:01:22,103 - TestColorDetection - INFO - Controller: Color selection reset
+2024-12-12 02:01:25,815 - TestColorDetection - INFO - Controller: Selected Green
+2024-12-12 02:01:40,155 - TestColorDetection - INFO - Controller: Selected Red
+2024-12-12 02:01:53,312 - TestColorDetection - INFO - Controller: Selected Blue
+2024-12-12 02:02:20,119 - TestColorDetection - INFO - User initiated exit via 'q' key.
+2024-12-12 02:02:21,518 - TestColorDetection - INFO - Stopping controller polling thread for test script...
+2024-12-12 10:18:49,083 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 10:18:51,935 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 10:19:18,600 - TestColorDetection - INFO - Controller: Selected Blue
+2024-12-12 10:19:41,821 - TestColorDetection - INFO - User initiated exit via 'q' key.
+2024-12-12 10:19:43,144 - TestColorDetection - INFO - Stopping controller polling thread for test script...
+2024-12-12 10:31:50,367 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 10:31:53,222 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 10:32:04,032 - TestColorDetection - INFO - Controller: Selected Blue
+2024-12-12 10:34:31,807 - TestColorDetection - INFO - User initiated exit via 'q' key.
+2024-12-12 10:34:33,656 - TestColorDetection - INFO - Stopping controller polling thread for test script...
+2024-12-12 10:41:50,770 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 10:41:53,618 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 10:42:05,658 - TestColorDetection - INFO - Controller: Selected Red
+2024-12-12 10:42:21,708 - TestColorDetection - INFO - User initiated exit via 'q' key.
+2024-12-12 10:42:23,543 - TestColorDetection - INFO - Stopping controller polling thread for test script...
+2024-12-12 10:45:19,764 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 10:45:22,611 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 10:45:36,528 - TestColorDetection - INFO - Test script interrupted by user via KeyboardInterrupt.
+2024-12-12 11:26:23,837 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 11:26:26,703 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 11:26:45,026 - TestColorDetection - INFO - Controller: Selected Red
+2024-12-12 11:27:25,512 - TestColorDetection - INFO - User initiated exit via 'q' key.
+2024-12-12 11:27:26,845 - TestColorDetection - INFO - Stopping controller polling thread for test script...
+2024-12-12 13:54:06,543 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 13:54:09,392 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 13:54:22,062 - TestColorDetection - INFO - Controller: Selected Blue
+2024-12-12 13:54:31,974 - TestColorDetection - INFO - Controller: Selected Green
+2024-12-12 13:54:34,087 - TestColorDetection - INFO - Controller: Selected Red
+2024-12-12 13:54:50,103 - TestColorDetection - INFO - Controller: Selected Blue
+2024-12-12 13:55:02,126 - TestColorDetection - INFO - User initiated exit via 'q' key.
+2024-12-12 13:55:03,319 - TestColorDetection - INFO - Stopping controller polling thread for test script...
+2024-12-12 13:56:46,958 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 13:56:49,794 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 13:56:54,897 - TestColorDetection - INFO - Controller: Selected Blue
+2024-12-12 13:57:04,711 - TestColorDetection - INFO - User initiated exit via 'q' key.
+2024-12-12 13:57:06,217 - TestColorDetection - INFO - Stopping controller polling thread for test script...
+2024-12-12 14:01:23,888 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 14:01:26,731 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 14:01:32,616 - TestColorDetection - INFO - Controller: Selected Blue
+2024-12-12 14:01:55,647 - TestColorDetection - INFO - User initiated exit via 'q' key.
+2024-12-12 14:01:56,963 - TestColorDetection - INFO - Stopping controller polling thread for test script...
+2024-12-12 14:24:12,636 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 14:24:15,471 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 14:24:35,641 - TestColorDetection - INFO - Controller: Selected Blue
+2024-12-12 14:25:03,689 - TestColorDetection - INFO - User initiated exit via 'q' key.
+2024-12-12 14:25:04,900 - TestColorDetection - INFO - Stopping controller polling thread for test script...
+2024-12-12 14:26:18,412 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 14:26:21,247 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 14:27:16,101 - TestColorDetection - INFO - Test script interrupted by user via KeyboardInterrupt.
+2024-12-12 14:27:18,174 - TestColorDetection - INFO - Stopping controller polling thread for test script...
+2024-12-12 14:27:47,035 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 14:27:49,875 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 14:27:54,895 - TestColorDetection - INFO - Controller: Selected Blue
+2024-12-12 14:29:17,269 - TestColorDetection - INFO - Test script interrupted by user via KeyboardInterrupt.
+2024-12-12 14:29:18,619 - TestColorDetection - INFO - Stopping controller polling thread for test script...
+2024-12-12 14:30:03,241 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 14:30:06,096 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 14:30:22,110 - TestColorDetection - INFO - User initiated exit via 'q' key.
+2024-12-12 14:30:24,020 - TestColorDetection - INFO - Stopping controller polling thread for test script...
+2024-12-12 14:32:46,073 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 14:32:48,937 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 14:32:58,745 - TestColorDetection - INFO - Controller: Selected Blue
+2024-12-12 14:34:42,929 - TestColorDetection - INFO - Test script interrupted by user via KeyboardInterrupt.
+2024-12-12 14:39:06,262 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 14:39:09,115 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 14:39:11,096 - TestColorDetection - ERROR - Exception in test script: OpenCV(4.10.0) /tmp/pip-install-1ufpx898/opencv-python_13302f3e34024bfe926b62af260e7afb/opencv/modules/highgui/src/window.cpp:973: error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'imshow'
+
+2024-12-12 14:39:12,431 - TestColorDetection - INFO - Stopping controller polling thread for test script...
+2024-12-12 14:39:27,788 - TestColorDetection - INFO - Controller polling thread stopped for test script.
+2024-12-12 14:39:27,848 - TestColorDetection - INFO - Test script terminated gracefully.
+2024-12-12 14:39:32,603 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 14:39:35,458 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 14:39:37,456 - TestColorDetection - ERROR - Exception in test script: OpenCV(4.10.0) /tmp/pip-install-1ufpx898/opencv-python_13302f3e34024bfe926b62af260e7afb/opencv/modules/highgui/src/window.cpp:973: error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'imshow'
+
+2024-12-12 14:39:38,619 - TestColorDetection - INFO - Stopping controller polling thread for test script...
+2024-12-12 14:39:43,220 - TestColorDetection - INFO - Controller: Selected Green
+2024-12-12 14:39:43,220 - TestColorDetection - INFO - Controller polling thread stopped for test script.
+2024-12-12 14:39:43,422 - TestColorDetection - INFO - Test script terminated gracefully.
+2024-12-12 14:40:57,808 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 14:41:00,655 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 14:41:45,600 - TestColorDetection - INFO - Test script interrupted by user via KeyboardInterrupt.
+2024-12-12 14:41:47,081 - TestColorDetection - INFO - Stopping controller polling thread for test script...
+2024-12-12 16:15:52,242 - TestColorDetection - INFO - Controller polling thread initialized for test script.
+2024-12-12 16:15:55,106 - TestColorDetection - INFO - Starting test script: Live Feed with Bars and Color Filtering.
+2024-12-12 16:16:09,577 - TestColorDetection - INFO - Controller: Selected Blue
+2024-12-12 16:16:10,153 - TestColorDetection - INFO - Controller: Selected Blue
+2024-12-12 16:16:49,085 - TestColorDetection - INFO - Controller: Selected Red
+2024-12-12 16:16:58,938 - TestColorDetection - INFO - User initiated exit via 'q' key.
+2024-12-12 16:17:01,033 - TestColorDetection - INFO - Stopping controller polling thread for test script...
