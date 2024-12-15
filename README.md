@@ -73,7 +73,7 @@ All custom hardware/mounting designs were made on CAD using Fusion360
 | VESC DCDC Converter and Anti-Spark Holder    | ![VESC DCDC Converter and Anti-Spark Holder](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/VESC%20DCDC%20Converter%20and%20Anti-Spark%20Switch%20Holder.png) |
 | Assembled VESC Case                          | ![Assembled VESC Case](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Assembled%20VESC%20Case.jpeg) |
 | Installed VESC Case                          | ![Installed VESC Case](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Installed%20VESC%20Case.jpeg) |
-
+| Assembled Car (old Shocks)                   | ![Assembled Car (old Shocks)](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Assembled%20Car%20(old%20Shocks).jpeg) |
 
 
 ---
