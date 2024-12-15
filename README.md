@@ -1,5 +1,7 @@
 # MAE 148 Fall 2024 Team 6 Final Project
 
+![Assembled Car](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Assembled%20Car.jpeg)
+
 ## Table of Contents
 - [Team Members](#team-members)
 - [Overview](#overview)
