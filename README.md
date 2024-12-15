@@ -18,10 +18,10 @@
 ---
 
 ## Team Members
-- **Clayton Hoxworth** (MAE)  
-- **Daniel Cruz** (MAE)  
-- **Jonathan Cohen** (MAE)  
-- **Lucca Frey** (MAE)  
+- **Clayton Hoxworth** (MAE) [choxworth@ucsd.edu](mailto:choxworth@ucsd.edu)  
+- **Daniel Cruz** (MAE) [dcruzespada@ucsd.edu](mailto:dcruzespada@ucsd.edu)  
+- **Jonathan Cohen** (MAE) [j3cohen@ucsd.edu](mailto:j3cohen@ucsd.edu)  
+- **Lucca Frey** (MAE) [lnogueirafrey@ucsd.edu](mailto:lnogueirafrey@ucsd.edu)
 
 ---
 
