@@ -60,6 +60,7 @@ The robot project includes:
 - 4S Lipo Battery
 
 **Hardware Table**
+
 All custom hardware/mounting designs were made on CAD using Fusion360
 | **Description**                               | **Image**                                                                 |
 |----------------------------------------------|--------------------------------------------------------------------------|
