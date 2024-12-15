@@ -42,14 +42,22 @@ We trained parking maneuver motions to both **enter and exit** the parking spot.
 ---
 
 ## Hardware
-We used **Fusion360** to create CAD models to mount the robot's required electronics.  
-The robot includes:  
-- OAK-D Lite camera for video input and line detection.  
-- VESC motor controller for movement.  
-- Custom-designed mounts for electronics and sensors.
+The robot project includes:  
+- Traxxas 1/10 scale chassis, servo, and tires
+- Jetson Nano as our SBC
+- OAK-D Lite camera (Fixed-Focus)
+- VESC motor controller (which also controlled our steering servo)
+- MATEKSYS Servo PDB
+- Quectel GNSS/SPG module and board
+- LD06 LiDar
+- DC-DC Converter
+- Anti-Spark Switch with power switch
+- XeRun 3660 G2 sensored motor
+- Logitech G F710 Wireless Gamepad
+- 4S Lipo Battery
 
-## Hardware
-
+**Hardware Table**
+All custom hardware/mounting designs were made on CAD using Fusion360
 | **Description**                               | **Image**                                                                 |
 |----------------------------------------------|--------------------------------------------------------------------------|
 | Assembled CAD Model                          | ![Assembled CAD Model](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Assembled%20CAD%20Model.png) |
