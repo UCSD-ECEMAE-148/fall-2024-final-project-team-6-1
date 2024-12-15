@@ -74,19 +74,21 @@ All custom hardware/mounting designs were made on CAD using Fusion360
 | GPS: GNSS Receiver and Power Switch Holder   | ![GPS GNSS Receiver and Power Switch Holder](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/GPS%3AGNSS%20Receiver%20and%20Board%20Mount%20and%20Power%20switch%20holder.png) |
 | VESC DCDC Converter and Anti-Spark Holder    | ![VESC DCDC Converter and Anti-Spark Holder](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/VESC%20DCDC%20Converter%20and%20Anti-Spark%20Switch%20Holder.png) |
 | Assembled VESC Case                          | ![Assembled VESC Case](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Assembled%20VESC%20Case.jpeg) |
-| Installed VESC Case                          | ![Installed VESC Case](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Installed%20VESC%20Case.jpeg) |
 | Assembled Car (old springs)                   | ![Assembled Car (old springs2)](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Assembled%20Car%20(old%20springs2).jpeg) |
 
 
 ---
 
 ## Assembled Robot
-*(Add an image of the assembled robot here, if available.)*
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/blob/main/Images/Finished%20Robot%201.jpeg?raw=true" alt="Finished Robot" width="45%">
+  <img src="https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/blob/main/Images/Underside%20of%20Robot.jpeg?raw=true" alt="Underside of Robot" width="45%">
+</div>
 
 ---
 
 ## Final Project Demo
-*(Add a link to a video demo or a description here.)*
+[![Watch the video](https://img.youtube.com/vi/1BtUDkrLmAQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=1BtUDkrLmAQ)
 
 ---
 
