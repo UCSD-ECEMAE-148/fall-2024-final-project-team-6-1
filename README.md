@@ -46,7 +46,30 @@ We used **Fusion360** to create CAD models to mount the robot's required electro
 The robot includes:  
 - OAK-D Lite camera for video input and line detection.  
 - VESC motor controller for movement.  
-- Custom-designed mounts for electronics and sensors.  
+- Custom-designed mounts for electronics and sensors.
+
+## Hardware
+
+| **Description**                               | **Image**                                                                 |
+|----------------------------------------------|--------------------------------------------------------------------------|
+| Assembled CAD Model                          | ![Assembled CAD Model](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Assembled%20CAD%20Model.png) |
+| Assembled Car (old Shocks)                   | ![Assembled Car (old Shocks)](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Assembled%20Car%20(old%20Shocks).jpeg) |
+| Assembled Car                                | ![Assembled Car](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Assembled%20Car.jpeg) |
+| Assembled VESC Case                          | ![Assembled VESC Case](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Assembled%20VESC%20Case.jpeg) |
+| GPS: GNSS Receiver and Power Switch Holder   | ![GPS GNSS Receiver and Power Switch Holder](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/GPS%3AGNSS%20Receiver%20and%20Board%20Mount%20and%20Power%20switch%20holder.png) |
+| Installed VESC Case                          | ![Installed VESC Case](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Installed%20VESC%20Case.jpeg) |
+| LD06 Lidar Mount                             | ![LD06 Lidar Mount](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/LD06%20Lidar%20Mount.png) |
+| Magnetic Jetson Case                         | ![Magnetic Jetson Case](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Magnetic%20Jetson%20Case.png) |
+| Mounting Plate Front Support                 | ![Mounting Plate Front Support](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Mounting%20Plate%20Front%20Support.png) |
+| Mounting Plate                               | ![Mounting Plate](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Mounting%20Plate.png) |
+| OAKd-Lite Mount                              | ![OAKd-Lite Mount](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/OAKd-Lite%20Mount.png) |
+| Parked Car                                   | ![Parked Car](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Parked%20Car.jpeg) |
+| Rear Hinge Mount                             | ![Rear Hinge Mount](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Rear%20Hinge%20Mount.png) |
+| Swivel Hinges                                | ![Swivel Hinges](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Swivel%20Hinges.png) |
+| Team6 Wiring Diagram                         | ![Team6 Wiring Diagram](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Team6_WiringDiagram.jpg) |
+| USB Hub Mount                                | ![USB Hub Mount](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/USB%20Hub%20Mount.png) |
+| VESC DCDC Converter and Anti-Spark Holder    | ![VESC DCDC Converter and Anti-Spark Holder](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/VESC%20DCDC%20Converter%20and%20Anti-Spark%20Switch%20Holder.png) |
+
 
 ---
 
