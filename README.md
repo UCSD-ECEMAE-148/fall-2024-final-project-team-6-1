@@ -26,7 +26,7 @@
 ---
 
 ## Overview
-We want to create a **self-parking robot** that:  
+We want to create a **self parallel-parking robot** that:  
 1. **Follows a centerline** road path (using a specific color).  
 2. With one input, can park in **3 different desired parking spots**.  
 3. Continues traveling back and forth along the centerline until this input is given.  
