@@ -7,6 +7,7 @@
 - [Overview](#overview)
 - [Software](#software)
 - [Hardware](#hardware)
+- [Wiring Diagram](#wiring-diagram)
 - [Assembled Robot](#assembled-robot)
 - [Final Project Demo](#final-project-demo)
 - [Results](#results)
@@ -76,7 +77,10 @@ All custom hardware/mounting designs were made on CAD using Fusion360
 | Assembled VESC Case                          | ![Assembled VESC Case](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Assembled%20VESC%20Case.jpeg) |
 | Assembled Car (old springs)                   | ![Assembled Car (old springs2)](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/raw/main/Images/Assembled%20Car%20(old%20springs2).jpeg) |
 
+---
+## Wiring Diagram
 
+![Team6_WiringDiagram](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-team-6-1/blob/main/Images/Team6_WiringDiagram.jpg)
 ---
 
 ## Assembled Robot
