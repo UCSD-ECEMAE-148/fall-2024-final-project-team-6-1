@@ -16,7 +16,7 @@
 
 ## Team Members
 - **Clayton Hoxworth** (MAE)  
-- **Daniel Cruz** (ECE)  
+- **Daniel Cruz** (MAE)  
 - **Jonathan Cohen** (MAE)  
 - **Lucca Frey** (MAE)  
 
