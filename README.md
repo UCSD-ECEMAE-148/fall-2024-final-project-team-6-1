@@ -182,3 +182,6 @@ The **motions/** directory contains scripts for specific robot behaviors:
 1. Ensure all dependencies are installed:
    ```bash
    pip3 install depthai opencv-python numpy
+2. Run the program
+   ```bash
+   python3 parallel_park.py
